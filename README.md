@@ -2,7 +2,7 @@
 
 A beautiful terminal-based guessing game that challenges your knowledge of Bollywood celebrities, Hollywood stars, and famous scientists from around the world!
 
-[GuessWhoSh.webm](https://github.com/user-attachments/assets/52b64871-a120-4113-b1ba-e2bd865bd380)
+
 
 ## ✨ Overview
 
